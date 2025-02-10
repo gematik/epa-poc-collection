@@ -1,0 +1,51 @@
+{
+  "ICCSN-1": {
+    "KVNR": "A123456789",
+    "revoked": false,
+    "VB": "20180912",
+    "Strasse": "Beispielstrasse"
+  },
+  "ICCSN-2": {
+    "KVNR": "A234567891",
+    "revoked": false,
+    "VB": "20190212",
+    "Strasse": ""
+  },
+  "ICCSN-3": {
+    "KVNR": "A115678912",
+    "revoked": true,
+    "VB": "20100913",
+    "Strasse": ""
+  },
+  "ICCSN-4": {
+    "KVNR": "A345678912",
+    "revoked": true,
+    "VB": "19981123",
+    "Strasse": "Berliner Straße"
+  },
+  "ICCSN-5": {
+    "KVNR": "A456789123",
+    "revoked": true,
+    "VB": "19841003",
+    "Strasse": "Angermünder Straße"
+  },
+  "ICCSN-6": {
+    "KVNR": "A567891234",
+    "revoked": true,
+    "VB": "20010119",
+    "Strasse": "Björnsonstraße"
+  },
+  "ICCSN-7": {
+    "KVNR": "A789123456",
+    "revoked": true,
+    "VB": "20040718",
+    "Strasse": "Schönhauser Allee"
+  },
+  "ICCSN-8": {
+    "KVNR": "AA789123456",
+    "revoked": true,
+    "VB": "20040718",
+    "Strasse": "Schönhauser Allee"
+  }
+}
+
