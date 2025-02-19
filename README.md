@@ -13,7 +13,7 @@ Prüfziffer in an AS or E-Rezept-FD are included as sample implementations.
 The POC was originally implemented in Python and has been translated to Java, demonstrating an example implementation for C_12143.
 
 See more details and example implementation of the Python POC:
-[https://bitbucket.org/andreas_hallof/pop-egk-vsdm/src/master/encrypted_vsdmplus/pre-BUAG-2025-01-09/](https://bitbucket.org/andreas_hallof/pop-egk-vsdm/src/master/encrypted_vsdmplus/pre-BUAG-2025-01-09/)
+[https://bitbucket.org/andreas_hallof/pop-egk-vsdm/src/master/encrypted_vsdmplus/](https://bitbucket.org/andreas_hallof/pop-egk-vsdm/src/master/encrypted_vsdmplus/)
 
 #### VsdmFd.java
 
